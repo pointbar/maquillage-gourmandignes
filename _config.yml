@@ -18,9 +18,7 @@ defaults:
       path: ""
     values:
       layout: location
-
-collections:
-
+      
 plugins:
   - jekyll-remote-theme
   - jekyll-github-metadata
